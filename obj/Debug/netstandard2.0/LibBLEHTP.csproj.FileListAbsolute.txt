@@ -1,0 +1,9 @@
+C:\Users\ciesl\Desktop\LibBLEHTP$\bin\Debug\netstandard2.0\LibBLEHTP.deps.json
+C:\Users\ciesl\Desktop\LibBLEHTP$\bin\Debug\netstandard2.0\LibBLEHTP.dll
+C:\Users\ciesl\Desktop\LibBLEHTP$\bin\Debug\netstandard2.0\LibBLEHTP.pdb
+C:\Users\ciesl\Desktop\LibBLEHTP$\obj\Debug\netstandard2.0\LibBLEHTP.csprojAssemblyReference.cache
+C:\Users\ciesl\Desktop\LibBLEHTP$\obj\Debug\netstandard2.0\LibBLEHTP.AssemblyInfoInputs.cache
+C:\Users\ciesl\Desktop\LibBLEHTP$\obj\Debug\netstandard2.0\LibBLEHTP.AssemblyInfo.cs
+C:\Users\ciesl\Desktop\LibBLEHTP$\obj\Debug\netstandard2.0\LibBLEHTP.csproj.CoreCompileInputs.cache
+C:\Users\ciesl\Desktop\LibBLEHTP$\obj\Debug\netstandard2.0\LibBLEHTP.dll
+C:\Users\ciesl\Desktop\LibBLEHTP$\obj\Debug\netstandard2.0\LibBLEHTP.pdb

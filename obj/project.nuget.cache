@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FPvBz/fXWvf9SnVrPcZSztjSnT4fvWesCngiJcBZPILnKSW1J8a0TGnpfVjUjSc/eWUlClT5A5ifObXbWWOhVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ciesl\\Desktop\\LibBLEHTP$\\LibBLEHTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ciesl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ciesl\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
